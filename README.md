@@ -1,0 +1,1 @@
+In the following you will get a very beautiful animation of a field of sunflowers. With every click you make, you can add more and more sunflowers. I saw this as a trending video on TikTok and its essentially from Codepen. Have fun with that and dont mix the style.css and style.scss!
